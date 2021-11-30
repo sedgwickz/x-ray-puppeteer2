@@ -1,4 +1,4 @@
-# x-ray-puppeteer
+# x-ray-puppeteer2
 
 Inspired by [x-ray-chrome](https://github.com/ssbeefeater/x-ray-chrome), but optimized with iframe content auto loaded additionally.
 
