@@ -1,9 +1,20 @@
 {
   "name": "x-ray-puppeteer2",
-  "version": "1.0.0",
+  "version": "1.0.1",
+  "description": "a driver of x-ray",
+  "keywords": [
+    "x-ray",
+    "puppeteer",
+    "x-ray-puppeteer2"
+  ],
   "main": "x-ray-puppeteer.js",
   "type": "module",
   "license": "MIT",
+  "homepage": "https://github.com/sedgwickz/x-ray-puppeteer2",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sedgwickz/x-ray-puppeteer2"
+  },
   "scripts": {
     "start": "node example.js"
   },
