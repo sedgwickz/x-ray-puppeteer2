@@ -12,7 +12,7 @@ or
 
 ## Usage
 
-```
+```js
 import Xray from "x-ray"
 import XrayPuppeteer from "x-ray-puppeteer2"
 
