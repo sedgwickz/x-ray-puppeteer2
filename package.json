@@ -1,0 +1,16 @@
+{
+  "name": "x-ray-puppeteer2",
+  "version": "1.0.0",
+  "main": "x-ray-puppeteer.js",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "devDependencies": {
+    "x-ray": "^2.3.4"
+  },
+  "dependencies": {
+    "puppeteer-core": "^12.0.1"
+  }
+}
